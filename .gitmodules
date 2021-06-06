@@ -1,0 +1,21 @@
+[submodule "daw-core"]
+	path = daw-core
+	url = https://github.com/gridsound/daw-core
+[submodule "gs-ui-components"]
+	path = gs-ui-components
+	url = https://github.com/gridsound/gs-ui-components
+[submodule "gs-api-client"]
+	path = gs-api-client
+	url = https://github.com/gridsound/gs-api-client
+[submodule "assets"]
+	path = assets
+	url = https://github.com/gridsound/assets
+[submodule "gs-components"]
+	path = gs-components
+	url = https://github.com/gridsound/gs-components
+[submodule "gs-wa-components"]
+	path = gs-wa-components
+	url = https://github.com/gridsound/gs-wa-components
+[submodule "gs-utils"]
+	path = gs-utils
+	url = https://github.com/gridsound/gs-utils
