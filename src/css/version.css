@@ -1,0 +1,19 @@
+#version {
+	font-size: 15px;
+}
+
+#versionNum {
+	opacity: .8;
+	font-family: var( --font-number );
+}
+
+#versionCheck {
+	font-size: 10px;
+	font-weight: bold;
+	opacity: .4;
+	cursor: pointer;
+	transition: .2s opacity;
+}
+#versionCheck:hover {
+	opacity: 1;
+}

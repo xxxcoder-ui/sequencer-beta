@@ -1,0 +1,15 @@
+:root {
+	--gsuiDrums-color: #fff;
+	--gsuiDrums-drum-bg: #5acd;
+	--gsuiDrums-drum-color: #000;
+	--gsuiDrums-drumprop-bg: #0002;
+	--gsuiDrums-drumprop-color: #0004;
+	--gsuiDrums-drumcut-bg: #48ad;
+	--gsuiDrums-line-border: #2e4145;
+	--gsuiDrums-line-mute-bg: #0003;
+	--gsuiDrums-loop-bg: #000;
+	--gsuiDrums-currentTime-bg: #ff91;
+	--gsuiDrums-drumHover-border: #5ac;
+	--gsuiDrums-drumHover-bg: #5ac3;
+	--gsuiDrums-shadow-bg: #000a;
+}
